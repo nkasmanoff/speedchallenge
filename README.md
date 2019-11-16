@@ -1,4 +1,4 @@
-Welcome to the comma.ai Programming Challenge!
+Welcome to (my attempt at) the comma.ai Programming Challenge!
 ======
 
 Your goal is to predict the speed of a car from a video.
@@ -22,3 +22,10 @@ Twitter
 
 <a href="https://twitter.com/comma_ai">Follow us!</a>
 
+
+
+Current Progress
+-----------------
+
+
+I have a pretty bad baseline which is trained on a really small segment of the data, due to memory limitations on my computer. I'd love to train this on a cluster, but I can't upload the entirety of the mp4 to github and transfer there since the video file is too large! What's worse is if you do  git clone of the original file, the mp4 file does not work properly. So for now I'll leave the basic baseline up along with the new way to format this file, and train it locally while adding a flash drive to my computer to host the data. 
